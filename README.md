@@ -1,5 +1,10 @@
 # 🧮 Python Calculator
 
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+
+
 A simple, modular calculator program written in Python.  
 This project demonstrates clean coding practices, input validation, and safe error handling.  
 It is designed to be beginner-friendly and suitable for GitHub projects.
